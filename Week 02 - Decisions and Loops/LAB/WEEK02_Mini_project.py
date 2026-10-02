@@ -4,7 +4,7 @@ RECORD CHECK  -  my version
 
 Name  : Zachary Scott
 Lane  :IT
-Date  :
+Date  : 10/02/2026
 
 Run it:   python template.py
 
@@ -50,7 +50,6 @@ while True:
 
     print("=" * 34)
 
-# Print the total only after the user quits
 print()
 print(f"OVER LIMIT COUNT: {over_limit_count}")
 
@@ -58,6 +57,6 @@ print(f"OVER LIMIT COUNT: {over_limit_count}")
 # ==========================================================================
 # 5. Before you finish:
 #
-#    [ ] Run it three times with different numbers
-#    [ ] Run it with a total of 0 and note the error (do not fix it yet)
-#    [ ] Check every variable name says what it holds
+#    [x] Run it three times with different numbers
+#    [x] Run it with a total of 0 and note the error (do not fix it yet)
+#    [x] Check every variable name says what it holds
